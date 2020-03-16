@@ -1,0 +1,3 @@
+data_root           /home/bjrhigy/corpora/flickr1d/flickr1d
+meta                dataset.json
+audio_features_fn   mfcc_features.pt
